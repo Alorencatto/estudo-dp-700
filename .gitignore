@@ -1,0 +1,18 @@
+# Recursos locais / material de terceiros (não publicar)
+recursos/*
+!recursos/README.md
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.code-workspace
+
+# Ambientes e secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
